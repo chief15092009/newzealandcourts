@@ -17,5 +17,5 @@ We are not associated with the real life Courts of New Zealand in any shape, way
 This registry is maintained by the Judiciary and Clerk of the respective courts.
 
 ----
-<p align="center"> 
-<b>DISTRICT COURT</b> - <b>HIGH COURT</b> - <b>SUPREME COURT</b>
+  
+[HIGH COURT](https://github.com/chief15092009/newzealandcourts/tree/main/High%20Court%20of%20New%20Zealand) - [SUPREME COURT](https://github.com/chief15092009/newzealandcourts/tree/main/Supreme%20Court%20of%20New%20Zealand)
