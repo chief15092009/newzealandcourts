@@ -1,6 +1,5 @@
 # HIGH COURT RULES OF CIVIL PROCEDURE
 
-In effect: 2nd February 2026
 ---
 
 ## 1. Originating Proceedings and Statements of Defence
